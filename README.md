@@ -8,10 +8,12 @@ REST API
 + Update the existing record
 + Delete the record based on give id
 + Get all records
+
 DB schema
 + DB Name: TrueClub
 + Table Name: assignment
 + Table Columns : id, name, address, pincode, state ,row_creation_timestamp
+
 Tech Stack:
 + Spring boot
 + Spring Jpa
